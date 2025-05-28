@@ -1,4 +1,6 @@
 # EX-3 : IMPLEMENTATION OF LINEAR REGRESSION  MODEL USING GRADIENT DESCENT
+### Name : R.Jayasree
+### R.No : 212223040074
 
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
